@@ -1,0 +1,11 @@
+#counter{
+  display: block;
+  text-align: left;
+  font-size: 50px;
+}
+
+.countingBtn{
+  display: flexbox;
+  text-align: center;
+  justify-content: center;
+}
