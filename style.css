@@ -11,7 +11,8 @@
   display: block;
   text-align: center;
   font-size: 500px;
-  background-color: aliceblue;
+  background-color: rgb(171, 74, 74);
+  border-radius: 50em;
   justify-content: center;
   align-items: center;
 }
@@ -23,7 +24,7 @@
 
 .btn{
   display: inline-flex;
-  background-color: lightblue;
+  background-color: rgb(171, 74, 74);
   border-radius: 5em;
   width: 100px;
   text-align: center;
